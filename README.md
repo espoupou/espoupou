@@ -1,5 +1,13 @@
-### Hi there 👋
+### i'm Synux :) 👋
 
+I'm currently learning Industrial Engineering after four year in software divide in two, two in software Engineering and two in mathematics and computer science.
+
+## 💬 Ask me about ...
+  just I'M SYNUX :)
+
+## ⚡ Fun fact:
+  Is coding a fun hobby?
+  Yes, coding is fun. But only if you like problem. hahahha 😄
 <!--
 **espoupou/espoupou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
