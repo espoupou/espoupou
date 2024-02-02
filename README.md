@@ -1,6 +1,7 @@
 ### i'm Synux :) 👋
 
-I'm currently learning Industrial Engineering after four year in software divide in two, two in software Engineering and two in mathematics and computer science.
+## I'm currently learning 
+  Industrial Engineering after four year in software divide in two, two in software Engineering and two in mathematics and computer science.
 
 ## 💬 Ask me about ...
   just I'M SYNUX :)
