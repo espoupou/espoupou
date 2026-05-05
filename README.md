@@ -1,7 +1,8 @@
 ### i'm Synux :) 👋
 
 ## I'm currently learning 
-  Industrial Engineering after four year in software divide in two, two in software Engineering and two in mathematics and computer science.
+  Industrial Engineering student with a background in software development.  
+  I build data-driven tools for production monitoring, process improvement, simulation and industrial digitalization.
 
 ## 💬 Ask me about ...
   just I'M SYNUX :)
